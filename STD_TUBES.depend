@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556040940 source:d:\cch1d4 - struktur data\codeblocks\c++\std_tubes\main.cpp
+	"Tubes.h"
+
+1556041032 d:\cch1d4 - struktur data\codeblocks\c++\std_tubes\tubes.h
+	<iostream>
+	<cstdlib>
+
+1556040522 source:d:\cch1d4 - struktur data\codeblocks\c++\std_tubes\tubes.cpp
+	"Tubes.h"
+
+1556444371 source:h:\documents\c++\std_tubes\std_tubes\main.cpp
+	"Tubes.h"
+
+1556353436 h:\documents\c++\std_tubes\std_tubes\tubes.h
+	<iostream>
+	<cstdlib>
+
+1556445197 source:h:\documents\c++\std_tubes\std_tubes\tubes.cpp
+	"Tubes.h"
+
+1556444371 source:e:\documents\c++\std_tubes\std_tubes\main.cpp
+	"Tubes.h"
+
+1586164186 e:\documents\c++\std_tubes\std_tubes\tubes.h
+	<iostream>
+	<cstdlib>
+
+1556445197 source:e:\documents\c++\std_tubes\std_tubes\tubes.cpp
+	"Tubes.h"
+
